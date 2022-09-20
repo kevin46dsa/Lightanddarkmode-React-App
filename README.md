@@ -1,4 +1,4 @@
-#Light and Dark Mode React App
+# Light and Dark Mode React App
 
 ## Light Mode 
 ![lightmode](https://user-images.githubusercontent.com/67777018/191320363-59a78ce3-53b7-4376-936a-eec53e82f4ab.PNG)
